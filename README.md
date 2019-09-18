@@ -12,6 +12,9 @@ It is designed to be used with Pantheon's [Build Tools Plugin](https://github.co
 * Nested pages / categories will not render with nested pages
   - [Discussion](https://github.com/GatsbyCentral/gatsby-starter-wordpress/issues/24) and [Pull Request](https://github.com/GatsbyCentral/gatsby-starter-wordpress/pull/28)
 
+## Page Build Status
+
+![](https://github.com/populist/gatsby-starter-wordpress/workflows/push/badge.svg)
 
 ## Contributors
 
